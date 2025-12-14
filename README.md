@@ -1,4 +1,4 @@
-# Layoffs Data Cleaning & Preparation – SQL Project
+# Layoffs Data Cleaning & EDA – SQL Project
 
 ## Project Overview
 
